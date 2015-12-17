@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_question" tools:context="jp.peer4.chielink.QuestionActivity" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <com.beardedhen.androidbootstrap.AwesomeTextView
+            android:id="@+id/textView1"
+            android:gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="20sp"
+            app:bootstrapText="カテゴリー１"
+            app:bootstrapBrand="primary" />
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:entries="@array/category_arrays"
+            android:prompt="@string/category_prompt" />
+
+        <com.beardedhen.androidbootstrap.AwesomeTextView
+            android:id="@+id/textView2"
+            android:gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="20sp"
+            app:bootstrapText="カテゴリー２"
+            app:bootstrapBrand="primary"/>
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:prompt="@string/spinnerPrompt" />
+
+        <com.beardedhen.androidbootstrap.AwesomeTextView
+            android:id="@+id/textView3"
+            android:gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            app:bootstrapText="タイトル"
+            app:bootstrapBrand="primary" />
+
+        <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/editText1"
+            android:hint="@string/NameDefault"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:ems="10"
+            app:bootstrapBrand="primary"
+            app:roundedCorners="true"/>
+
+        <com.beardedhen.androidbootstrap.AwesomeTextView
+            android:id="@+id/textView4"
+            app:bootstrapText="質問文  {fa_comment-o}"
+            android:gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            app:bootstrapBrand="primary" />
+
+        <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/editText2"
+            android:hint="@string/NameDefault1"
+            android:gravity="top|left"
+            android:layout_width="fill_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="50dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:maxLength="500"
+            app:bootstrapBrand="primary"
+            app:roundedCorners="true"    />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/btnSubmit"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="30dp"
+                app:bootstrapText="決定    {fa_check}"
+                app:bootstrapBrand="primary"
+                app:buttonMode="regular"
+                app:roundedCorners="true" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
