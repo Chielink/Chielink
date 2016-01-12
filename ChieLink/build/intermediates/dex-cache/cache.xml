@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\G012C1129\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c77c2ce9f544cd91e81be150e5d54f596283b811.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\SkyWay\jars\libs\libjingle_peerconnection.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="094fad7de259363f523941e49dc4f26b78ec05c3">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\libjingle_peerconnection-342b16b215de51503ff9c9250fe974e6aa9432b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\classes-3eda6fb35504beab68e7fc1c9e6eb98860358ca9.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-bcd22b874e83f8c813a4baa8c0e04794b5e4d575.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-350157674d3dd2ad86cb7b9190d557f45083fcd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\com.beardedhen\androidbootstrap\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="14d494487b6ab2e3740527221055a99f50b0a697">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\classes-c2534aed3b34afd2ce64a7a0fccd6a274f988c9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\classes-f2996ca726bf845c85d216cf468f5197a06fab4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\classes-ccc8d14f48c59fbd912418ec3722662f6eb7d947.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\SkyWay\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e669dbfd8576e0bccd3d9d23ecc269859929636">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\classes-76f14d6d97eff1f9ec90a872661179e56302a094.jar" />
+    </item>
+    <item
+        jar="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\G012C1129\Desktop\Android Studio Projects\ChieLink\app\build\intermediates\pre-dexed\debug\classes-c435ea4523f7c2334642b76c28ade25e19331460.jar" />
+    </item>
+
+</items>

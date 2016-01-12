@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rokihiro/Dropbox/and_sdk/Skyway-SDK-Android/TestPeerJava/Peer/src/main/res/values/vp8softcodec.xml -->
+    <eat-comment/>
+    <string-array name="vp8softcodec">
+		<!--
+		<item>{Build.MANUFACTURER},{Build.MODEL}</item>
+		-->
+		<item>LGE,Nexus 5</item>
+	</string-array>
+    <!-- From: file:/Users/rokihiro/Dropbox/and_sdk/Skyway-SDK-Android/TestPeerJava/Peer/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Peer</string>
+</resources>

@@ -1,0 +1,13 @@
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipeFrefreshLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="jp.peer4.chielink.TabQuestionListFragment">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newList" />
+
+</android.support.v4.widget.SwipeRefreshLayout><!-- From: file:/C:/Users/G012C1129/Desktop/Android%20Studio%20Projects/ChieLink/app/src/main/res/layout/fragment_tab_question_list.xml -->
